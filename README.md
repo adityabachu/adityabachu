@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi 👋, I'm Aditya
+Tech Geek | Problem Solver
 
-<!--
-**adityabachu/adityabachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Ask me about Machine Learning, Data Science, Java
 
-Here are some ideas to get you started:
+📫 How to reach me aditya.abhi03@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Languages and Tools:
+c,
+java,
+mongodb,
+mysql,
+pandas,
+python,
+scikit_learn,
+seaborn,
